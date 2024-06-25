@@ -1,0 +1,1 @@
+node server.js im Terminal um lokalen Server zu starten

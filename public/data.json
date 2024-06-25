@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tony",
+    "picture": "public\team_images\bober-kurwa.gif",
+    "last_round_points": 20,
+    "total_points": 200
+  },
+  {
+    "name": "CasualHexagons",
+    "picture": "public\team_images\bober-kurwa.gif",
+    "last_round_points": 0,
+    "total_points": 170
+  },
+  {
+    "name": "Kazuya",
+    "picture": "public\team_images\bober-kurwa.gif",
+    "last_round_points": 0,
+    "total_points": 150
+  },
+  {
+    "name": "Endrit",
+    "picture": "public\team_images\bober-kurwa.gif",
+    "last_round_points": 0,
+    "total_points": 130
+  },
+  {
+    "name": "Dalara",
+    "picture": "public\team_images\bober-kurwa.gif",
+    "last_round_points": 0,
+    "total_points": 70
+  },
+  {
+    "name": "Marco",
+    "picture": "public\team_images\bober-kurwa.gif",
+    "last_round_points": 0,
+    "total_points": 10
+  }
+]
